@@ -8,8 +8,10 @@ The group members for this assignment are :
 - Abdurrehman 22I-1963
 
 # Data Set 
-You can download data set (meta data 12gb) from this link :
+You can download data set (meta data 12gb) from this link:
+
 "https://cseweb.ucsd.edu/~jmcauley/datasets/amazon_v2/"
+
 Extract the zip to get the dataset of about 105gb.
 
 # Dependencies: 
@@ -17,8 +19,11 @@ Important Libraries required for the preprocessing of this data and to create a 
 
 
 -import json
+
 -import random
+
 -import time
+
 -from tqdm import tqdm
 -import pandas as pd
 -import numpy as np
