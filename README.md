@@ -75,6 +75,6 @@ Each consumer stores the data in MongoDB. The name of MongoDB is 'Frequent_Items
 
 # Running on Kafka :
 - Ensure that kafka is present in the home directory.
-- Put all the .py files i.e. producer and consumers  along with the bash script (frequent_itemset.sh) are present in Documents directory.
+- Put all the .py files i.e. producer and consumers  along with the bash script (Bash_Rc.sh) are present in Documents directory.
 - Open terminal and write the following command :
-  ./frequent_itemset.sh
+  ./Bash_Rc.sh
