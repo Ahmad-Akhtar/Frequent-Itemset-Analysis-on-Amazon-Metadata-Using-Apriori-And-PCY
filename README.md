@@ -17,21 +17,21 @@ Extract the zip to get the dataset of about 105gb.
 # Dependencies: 
 Important Libraries required for the preprocessing of this data and to create a sample data are listed below :
 
--import json
--import random
--import time
--from tqdm import tqdm
--import pandas as pd
--import numpy as np
--import re
--import nltk
--from nltk.corpus import stopwords
--from nltk.tokenize import word_tokenize
--from sklearn.preprocessing import MultiLabelBinarizer
--import streamlit as st
--from bs4 import BeautifulSoup
--import gc
--import swifter
+- import json
+- import random
+- import time
+- from tqdm import tqdm
+- import pandas as pd
+- import numpy as np
+- import re
+- import nltk
+- from nltk.corpus import stopwords
+- from nltk.tokenize import word_tokenize
+- from sklearn.preprocessing import MultiLabelBinarizer
+- import streamlit as st
+- from bs4 import BeautifulSoup
+- import gc
+- import swifter
 
 
 # Create Sample Dataset
