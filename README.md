@@ -34,11 +34,10 @@ Important Libraries required for the preprocessing of this data and to create a 
 - import swifter
 
 
-# Create Sample Dataset
+# Pre Processing Data 
 First of all, we have to sample out dataset to atleast 15gb. We make a sample file named : All_Amazon_Meta_Sampled.json
 
-# Pre Processing Data 
-First , read the sample file into the dataframe using pandas. Then, drop the unnecessary columns and only select the relevant columns. Moreover, check for null values and remove if any. After removing the null values, clean the columns that have texts after observing a sample of 5 to 10 records. Remove the used columns and then convert the processed dataframe into a json file for further calculations.
+Secondly, read the sample file into the dataframe using pandas. Then, drop the unnecessary columns and only select the relevant columns. Moreover, check for null values and remove if any. After removing the null values, clean the columns that have texts after observing a sample of 5 to 10 records. Remove the used columns and then convert the processed dataframe into a json file for further calculations.
 
 
 
