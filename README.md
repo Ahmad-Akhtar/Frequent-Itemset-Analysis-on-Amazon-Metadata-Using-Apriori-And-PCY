@@ -25,16 +25,27 @@ Important Libraries required for the preprocessing of this data and to create a 
 -import time
 
 -from tqdm import tqdm
+
 -import pandas as pd
+
 -import numpy as np
+
 -import re
+
 -import nltk
+
 -from nltk.corpus import stopwords
+
 -from nltk.tokenize import word_tokenize
+
 -from sklearn.preprocessing import MultiLabelBinarizer
+
 -import streamlit as st
+
 -from bs4 import BeautifulSoup
+
 -import gc
+
 -import swifter
 
 
